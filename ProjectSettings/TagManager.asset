@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Orange_Portal_1
+  - Cyan_Portal_1
+  - Green_Portal_1
+  - Purple_Portal_1
+  - Red_Portal_1
+  - Silver_Portal_1
+  - Empty_Portal
+  - LightBlue_Portal_1
+  - Yellow_Portal_1
+  - Green_Portal_Back
+  - item1
+  - item2
+  - item3
+  - item4
+  - platform1
+  - Canvas
+  - Green_Portal_Menu_1
+  - FloatingPlatform2
+  - respawn1
+  - levelSpawner
+  - killer1
+  - acidWater1
+  - camera
+  - vinhas1
+  - Death_Screen
+  - item5
+  - item6
+  - item1UI
+  - item2UI
+  - item3UI
+  - item4UI
+  - item5UI
+  - killer2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground1
+  - Walls1
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
